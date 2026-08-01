@@ -2,8 +2,6 @@
 
 This repository contains 90 benchmark instances for the multi-vessel and UAV routing problem for offshore wind turbine collaborative inspection.
 
-The dataset is generated from the locations of the Hornsea 1 offshore wind farm and is divided into small-, medium-, and large-scale instance sets.
-
 ## Repository structure
 
 ```text
